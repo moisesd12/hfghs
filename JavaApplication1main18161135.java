@@ -1,8 +1,7 @@
 
-package javaapplication1;
 
 
-public class JavaApplication1 {
+public class JavaApplication1main18161135 {
 
 
     public static void main(String[] args) {
